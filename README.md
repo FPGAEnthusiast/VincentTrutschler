@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VincentTrutschler
+- 👋 Hi
 - 👀 I’m interested in FPGA's and HDL
 - 🌱 I’m currently learning Hardware around FPGA's
 - 💞️ I’m looking to collaborate on FPGA learning
